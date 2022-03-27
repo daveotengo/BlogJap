@@ -11,6 +11,6 @@ python manage.py migrate (runing generated sql commands to create tables in data
 
 python manage.py createsupeuser (creating admin credentials to access and manage admin site)
 
-python manage.py runserver
+python manage.py runserver (to start application on default port 8000)
 
 
